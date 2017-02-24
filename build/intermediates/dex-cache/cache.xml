@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/libs/okio-1.6.0-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7086c00a30a6de0ee3b963ec2c3702d37f1de11d">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/okio-1.6.0-leancloud_fb413929dd7133c066dbfddd7017a9434221fbc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_d827f815569751e11657c8de4fbab7be5f85aca0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_cff0af0fe185a640986597cf9a221894455db5e7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_b6b8a2daf2a1ffc866cd0169c66e3e3ac84102b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_20704fab397acdeb64a03f84a9538f048b6184ac.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_b89539448d527540165a2c217e57c28172b4a3f5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_7b02d1b7295baebef91e1de25623174fe3e93703.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_5b51aa1d8662196567b20775710b7146e03f9311.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_5deb8a7ed6909322b3af152d5fabdfe024658f33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_a771e06823b83e43353be1b8b1b49098da947a61.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_a561dfbe718d59b4ef7026466632a3d84c343833.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/libs/fastjson.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="94d4ebd4acdaf01d7445435382eea2d2d38e7534">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/fastjson_65a44bcf6c5459f6e20a4a3bfdb54df034009d34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_8334177466a6435ffbf8012e263270537394b1de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/libs/avoscloud-sdk-v3.15.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5b5dcbe06f4c84ce3cc47d4da5acc96b89ee4b5e">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/avoscloud-sdk-v3.15.9_bb5721bb9a6036cf8ffe2c81a21deb45e2fe510a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_4367b24feb49559182a8131ec510f564248d0c19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/libs/okhttp-2.6.0-leancloud.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7d1a8dbbc128e91cf41ab6eafaa741ab2a6ff930">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/okhttp-2.6.0-leancloud_6a5427b5aa64eab106a0f4faae372f242f9cfc40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/azhang335/Documents/ZAM_GOLLUM/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_34339e920a3d4d021ad950a5f6e6e2580edb426f.jar" />
+    </item>
+
+</items>
